@@ -1,0 +1,15 @@
+{
+	"version": 2,
+	"settings": {
+	  "color": {
+		"palette": [
+		  {
+			"slug": "primary",
+			"color": "#000000",
+			"name": "Primary"
+		  }
+		]
+	  }
+	}
+  }
+  
